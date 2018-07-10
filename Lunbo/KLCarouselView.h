@@ -10,7 +10,7 @@
 
 @interface KLCarouselView : UIView
 /**
- 等待时间（默认2s）
+ 等待时间（默认2ss）
  */
 @property(nonatomic,assign) NSInteger waitTime;
 /**
